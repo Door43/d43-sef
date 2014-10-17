@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sef:home|Door43 (sef)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sef|d43-sef repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sef/archive/master.zip|d43-sef.zip]]
+
+**Recent Changes**
+{{changes>ns = sef}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sef|Ethnologue data]]
+
